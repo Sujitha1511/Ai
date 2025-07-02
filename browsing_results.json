@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify Airtable connection",
+    "timestamp": "2025-06-30T17:17:39.240018"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify Airtable connection",
+    "timestamp": "2025-06-30T17:21:06.083232"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify Airtable connection",
+    "timestamp": "2025-06-30T17:28:54.655455"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify Airtable connection",
+    "timestamp": "2025-06-30T17:39:42.963510"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify Airtable connection",
+    "timestamp": "2025-07-01T10:55:11.659157"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T11:05:50.688329"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T13:04:07.127170"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T13:14:34.928243"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T13:15:28.579454"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T15:08:02.501878"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T17:50:56.582846"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify file storage",
+    "timestamp": "2025-07-01T17:51:53.858564"
+  },
+  {
+    "title": "Test Article from Script",
+    "url": "https://example.com/test",
+    "summary": "This is a test record created to verify storage systems",
+    "timestamp": "2025-07-02T10:11:20.911114"
+  }
+]

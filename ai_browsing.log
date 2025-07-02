@@ -1,0 +1,729 @@
+2025-06-30 17:17:38,022 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-06-30 17:17:38,022 [INFO] API Key exists: True
+2025-06-30 17:17:38,022 [INFO] Base ID exists: True
+2025-06-30 17:17:38,023 [INFO] Table name exists: True
+2025-06-30 17:17:38,023 [INFO] =================================
+
+2025-06-30 17:17:39,236 [WARNING] WARNING: Could not retrieve test records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:17:39,236 [WARNING] Will attempt to create records anyway.
+2025-06-30 17:17:39,238 [INFO] Starting AI News Agent...
+2025-06-30 17:17:39,239 [INFO] 
+===== CREATING TEST RECORD =====
+2025-06-30 17:17:39,241 [INFO] Successfully saved data to browsing_results.json
+2025-06-30 17:17:39,241 [INFO] 
+Saving to Airtable: {'Title': 'Test Article from Script', 'URL': 'https://example.com/test', 'Summary': 'This is a test record created to verify Airtable connection', 'Created': '2025-06-30 17:17:39', 'Source': 'test_record'}
+2025-06-30 17:17:39,542 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:17:39,542 [WARNING] Attempting fallback with minimal record...
+2025-06-30 17:17:39,849 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:17:39,849 [ERROR] Failed to create test record in Airtable.
+2025-06-30 17:17:39,850 [INFO] Test record saved to file successfully!
+2025-06-30 17:17:39,850 [INFO] ================================
+
+2025-06-30 17:17:39,851 [ERROR] Aborting due to Airtable connection issues.
+2025-06-30 17:21:04,839 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-06-30 17:21:04,839 [INFO] API Key exists: True
+2025-06-30 17:21:04,840 [INFO] Base ID exists: True
+2025-06-30 17:21:04,840 [INFO] Table name exists: True
+2025-06-30 17:21:04,840 [INFO] =================================
+
+2025-06-30 17:21:06,080 [WARNING] WARNING: Could not retrieve test records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:21:06,081 [WARNING] Will attempt to create records anyway.
+2025-06-30 17:21:06,081 [INFO] Starting AI News Agent...
+2025-06-30 17:21:06,082 [INFO] 
+===== CREATING TEST RECORD =====
+2025-06-30 17:21:06,093 [INFO] Successfully saved data to browsing_results.json
+2025-06-30 17:21:06,095 [INFO] 
+Saving to Airtable: {'Title': 'Test Article from Script', 'URL': 'https://example.com/test', 'Summary': 'This is a test record created to verify Airtable connection', 'Created': '2025-06-30 17:21:06', 'Source': 'test_record'}
+2025-06-30 17:21:06,389 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:21:06,392 [WARNING] Attempting fallback with minimal record...
+2025-06-30 17:21:06,695 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:21:06,696 [ERROR] Failed to create test record in Airtable.
+2025-06-30 17:21:06,696 [INFO] Test record saved to file successfully!
+2025-06-30 17:21:06,697 [INFO] ================================
+
+2025-06-30 17:21:06,697 [ERROR] Aborting due to Airtable connection issues.
+2025-06-30 17:28:53,532 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-06-30 17:28:53,532 [INFO] API Key exists: True
+2025-06-30 17:28:53,532 [INFO] Base ID exists: True
+2025-06-30 17:28:53,533 [INFO] Table name exists: True
+2025-06-30 17:28:53,533 [INFO] =================================
+
+2025-06-30 17:28:54,653 [WARNING] WARNING: Could not retrieve test records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:28:54,653 [WARNING] Will attempt to create records anyway.
+2025-06-30 17:28:54,653 [INFO] Starting AI News Agent...
+2025-06-30 17:28:54,655 [INFO] 
+===== CREATING TEST RECORD =====
+2025-06-30 17:28:54,665 [INFO] Successfully saved data to browsing_results.json
+2025-06-30 17:28:54,665 [INFO] 
+Saving to Airtable: {'Title': 'Test Article from Script', 'URL': 'https://example.com/test', 'Summary': 'This is a test record created to verify Airtable connection', 'Created': '2025-06-30 17:28:54', 'Source': 'test_record'}
+2025-06-30 17:28:54,964 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:28:54,966 [WARNING] Attempting fallback with minimal record...
+2025-06-30 17:28:55,269 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:28:55,270 [ERROR] Failed to create test record in Airtable.
+2025-06-30 17:28:55,271 [INFO] Test record saved to file successfully!
+2025-06-30 17:28:55,271 [INFO] ================================
+
+2025-06-30 17:28:55,272 [ERROR] Aborting due to Airtable connection issues.
+2025-06-30 17:39:41,945 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-06-30 17:39:41,945 [INFO] API Key exists: True
+2025-06-30 17:39:41,945 [INFO] Base ID exists: True
+2025-06-30 17:39:41,945 [INFO] Table name exists: True
+2025-06-30 17:39:41,946 [INFO] =================================
+
+2025-06-30 17:39:42,961 [WARNING] WARNING: Could not retrieve test records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:39:42,962 [WARNING] Will attempt to create records anyway.
+2025-06-30 17:39:42,962 [INFO] Starting AI News Agent...
+2025-06-30 17:39:42,963 [INFO] 
+===== CREATING TEST RECORD =====
+2025-06-30 17:39:42,975 [INFO] Successfully saved data to browsing_results.json
+2025-06-30 17:39:42,976 [INFO] 
+Saving to Airtable: {'Title': 'Test Article from Script', 'URL': 'https://example.com/test', 'Summary': 'This is a test record created to verify Airtable connection', 'Created': '2025-06-30 17:39:42', 'Source': 'test_record'}
+2025-06-30 17:39:43,234 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:39:43,234 [WARNING] Attempting fallback with minimal record...
+2025-06-30 17:39:43,503 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:39:43,504 [ERROR] Failed to create test record in Airtable.
+2025-06-30 17:39:43,504 [INFO] Test record saved to file successfully!
+2025-06-30 17:39:43,504 [INFO] ================================
+
+2025-06-30 17:39:44,348 [INFO] Navigating to Bing...
+2025-06-30 17:39:50,565 [INFO] Page Title: Search - Microsoft Bing
+2025-06-30 17:39:50,565 [INFO] URL: https://www.bing.com/
+2025-06-30 17:39:50,565 [INFO] Found 73 links and 39 images
+2025-06-30 17:39:50,565 [INFO] Screenshot saved to screenshot_20250630_173950.png
+2025-06-30 17:39:50,566 [INFO] Successfully saved data to search_engine.json
+2025-06-30 17:39:50,599 [INFO] Using selector: #sb_form_q
+2025-06-30 17:39:54,768 [INFO] Submitting search...
+2025-06-30 17:39:59,331 [INFO] Search completed: https://www.bing.com/search?q=latest+AI+news+today&form=QBLH&sp=-1&ghc=1&lq=0&pq=latest+ai+news+today&sc=12-20&qs=n&sk=&cvid=B10CCDA0FA7544E2A20E8758C55F8B73
+2025-06-30 17:39:59,527 [INFO] Page Title: latest AI news today - Search
+2025-06-30 17:39:59,528 [INFO] URL: https://www.bing.com/search?q=latest+AI+news+today&form=QBLH&sp=-1&ghc=1&lq=0&pq=latest+ai+news+today&sc=12-20&qs=n&sk=&cvid=B10CCDA0FA7544E2A20E8758C55F8B73
+2025-06-30 17:39:59,528 [INFO] Found 131 links and 82 images
+2025-06-30 17:39:59,528 [INFO] Screenshot saved to screenshot_20250630_173959.png
+2025-06-30 17:39:59,529 [INFO] Successfully saved data to search_results.json
+2025-06-30 17:39:59,535 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-06-30 17:39:59,682 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-06-30 17:41:13,543 [INFO] Successfully retrieved page content
+2025-06-30 17:41:13,551 [INFO] Found 14 potential articles on the page
+2025-06-30 17:41:13,560 [INFO] Successfully saved data to extracted_articles.json
+2025-06-30 17:41:13,560 [INFO] Selected article: News about Latest AI
+2025-06-30 17:41:13,561 [INFO] URL: https://www.bing.com/news/search?q=Latest+AI&eventans=1&eventland=0&eventrel=1&qpvt=latest+AI+news+today&FORM=EWRE
+2025-06-30 17:41:13,561 [INFO] Visiting article page: https://www.bing.com/news/search?q=Latest+AI&eventans=1&eventland=0&eventrel=1&qpvt=latest+AI+news+today&FORM=EWRE
+2025-06-30 17:41:48,134 [ERROR] Error logging page content: Page.screenshot: Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2025-06-30 17:41:48,142 [INFO] Successfully saved data to selected_article.json
+2025-06-30 17:41:48,143 [INFO] Successfully saved data to browsing_session.json
+2025-06-30 17:41:48,513 [INFO] Querying local model... (this might take a moment)
+2025-06-30 17:47:04,452 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-06-30 17:47:53,999 [INFO] Successfully saved data to llm_interactions.json
+2025-06-30 17:47:54,001 [INFO] 
+LLM Response:
+ACTION: Navigate
+TARGET: https://indianexpress.com/section/technology/artificial-intelligence
+INPUT: None
+REASONING: The current page is a search results page with many links to various AI-related news articles. To continue searching for the latest AI news, I recommend navigating to one of these articles that seems most relevant or interesting to you. In this case, I suggest clicking on the article titled "Alibaba releases Qwen-VLo, its latest AI image model rivaling OpenAI's GPT-4o" as it appears to be a recent and significant development in the field of AI.
+2025-06-30 17:47:54,021 [INFO] Successfully read 14 records from extracted_articles.json
+2025-06-30 17:47:54,037 [INFO] Successfully read 1 records from selected_article.json
+2025-06-30 17:47:54,037 [INFO] Using selected article from file for Airtable record
+2025-06-30 17:47:54,038 [INFO] 
+Saving to Airtable: {'Title': 'News about Latest AI', 'URL': 'https://www.bing.com/news/search?q=Latest+AI&eventans=1&eventland=0&eventrel=1&qpvt=latest+AI+news+today&FORM=EWRE', 'Summary': 'bing.com › news', 'Created': '2025-06-30 17:47:54', 'Source': 'selected_article.json'}
+2025-06-30 17:47:55,280 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:47:55,281 [WARNING] Attempting fallback with minimal record...
+2025-06-30 17:47:55,551 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-06-30 17:47:55,552 [INFO] Waiting before closing...
+2025-06-30 17:48:10,579 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 10:55:10,639 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 10:55:10,639 [INFO] API Key exists: True
+2025-07-01 10:55:10,639 [INFO] Base ID exists: True
+2025-07-01 10:55:10,639 [INFO] Table name exists: True
+2025-07-01 10:55:10,640 [INFO] =================================
+
+2025-07-01 10:55:11,655 [WARNING] WARNING: Could not retrieve test records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 10:55:11,656 [WARNING] Will attempt to create records anyway.
+2025-07-01 10:55:11,657 [INFO] Starting AI News Agent...
+2025-07-01 10:55:11,658 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 10:55:11,676 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 10:55:11,676 [INFO] 
+Saving to Airtable: {'Title': 'Test Article from Script', 'URL': 'https://example.com/test', 'Summary': 'This is a test record created to verify Airtable connection', 'Created': '2025-07-01 10:55:11', 'Source': 'test_record'}
+2025-07-01 10:55:11,940 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 10:55:11,941 [WARNING] Attempting fallback with minimal record...
+2025-07-01 10:55:12,226 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 10:55:12,227 [ERROR] Failed to create test record in Airtable.
+2025-07-01 10:55:12,227 [INFO] Test record saved to file successfully!
+2025-07-01 10:55:12,228 [INFO] ================================
+
+2025-07-01 10:55:21,975 [INFO] Navigating to Bing...
+2025-07-01 10:55:43,508 [ERROR] Runtime error: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.bing.com/", waiting until "networkidle"
+
+2025-07-01 10:55:43,530 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 10:55:43,954 [ERROR] Unexpected error: Page.screenshot: Target page, context or browser has been closed
+2025-07-01 10:55:43,954 [INFO] 
+Saving to Airtable: {'Title': 'Script Error', 'URL': 'N/A', 'Summary': 'Error: Page.screenshot: Target page, context or browser has been closed', 'Created': '2025-07-01 10:55:43', 'Source': 'Direct'}
+2025-07-01 10:55:44,221 [ERROR] ERROR saving to Airtable: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 10:55:44,221 [WARNING] Attempting fallback with minimal record...
+2025-07-01 10:55:44,480 [CRITICAL] CRITICAL: Fallback also failed: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 11:05:49,524 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 11:05:49,525 [INFO] API Key exists: True
+2025-07-01 11:05:49,525 [INFO] Base ID exists: True
+2025-07-01 11:05:49,525 [INFO] Table name exists: True
+2025-07-01 11:05:49,525 [INFO] =================================
+
+2025-07-01 11:05:50,685 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 11:05:50,686 [WARNING] Will proceed with file storage only.
+2025-07-01 11:05:50,687 [INFO] Starting AI News Agent...
+2025-07-01 11:05:50,688 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 11:05:50,699 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 11:05:50,699 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 11:05:50,699 [INFO] Test record saved to file successfully!
+2025-07-01 11:05:50,700 [INFO] ================================
+
+2025-07-01 11:05:50,700 [INFO] Starting browser automation...
+2025-07-01 11:05:51,115 [INFO] Launching browser...
+2025-07-01 11:05:51,326 [INFO] Creating browser context...
+2025-07-01 11:05:51,387 [INFO] Creating new page...
+2025-07-01 11:05:51,648 [INFO] Navigating to Google (attempt 1)...
+2025-07-01 11:05:53,696 [INFO] Successfully loaded Google homepage
+2025-07-01 11:05:54,798 [INFO] Logging search engine page...
+2025-07-01 11:05:54,947 [INFO] Page Title: Google
+2025-07-01 11:05:54,947 [INFO] URL: https://www.google.com/
+2025-07-01 11:05:54,947 [INFO] Found 24 links and 1 images
+2025-07-01 11:05:54,947 [INFO] Screenshot saved to screenshot_20250701_110554.png
+2025-07-01 11:05:54,965 [INFO] Successfully saved data to search_engine.json
+2025-07-01 11:05:54,968 [INFO] Looking for search input field...
+2025-07-01 11:05:55,002 [INFO] Found search input with selector: textarea[name='q']
+2025-07-01 11:05:55,002 [INFO] Using selector: textarea[name='q']
+2025-07-01 11:05:56,062 [INFO] Typing search query: 'latest AI news today'
+2025-07-01 11:06:00,062 [INFO] Submitting search...
+2025-07-01 11:06:03,834 [INFO] Navigation after search completed
+2025-07-01 11:06:05,124 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=9d7bdfe3961b08c9&source=hp&ei=s3NjaK-GNuWC4-EPv5aQsQQ&iflsig=AOw8s4IAAAAAaGOBw7PL3S2oOcSWIJHdQrZEofZJec7b&ved=0ahUKEwjvq-6h-JqOAxVlwTgGHT8LJEYQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIAkUL0EWLAYcAF4AJABAJgBcqABrgyqAQQxOC4yuAEDyAEA-AEBmAIVoAKUDagCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQLhiABMICCBAAGIAEGLEDwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIUEC4YgAQYsQMY0QMYgwEYxwEYigWYAwXxBQqF6QhMv3dPkgcEMTkuMqAH9X6yBwQxOC4yuAeODcIHCDAuNC4xNi4xyAdY&sclient=gws-wiz&sei=vHNjaJ6vEJit4-EPl-rAmA4
+2025-07-01 11:06:05,125 [INFO] Logging search results page...
+2025-07-01 11:06:05,270 [INFO] Page Title: latest AI news today - Google Search
+2025-07-01 11:06:05,270 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=9d7bdfe3961b08c9&source=hp&ei=s3NjaK-GNuWC4-EPv5aQsQQ&iflsig=AOw8s4IAAAAAaGOBw7PL3S2oOcSWIJHdQrZEofZJec7b&ved=0ahUKEwjvq-6h-JqOAxVlwTgGHT8LJEYQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIAkUL0EWLAYcAF4AJABAJgBcqABrgyqAQQxOC4yuAEDyAEA-AEBmAIVoAKUDagCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQLhiABMICCBAAGIAEGLEDwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIUEC4YgAQYsQMY0QMYgwEYxwEYigWYAwXxBQqF6QhMv3dPkgcEMTkuMqAH9X6yBwQxOC4yuAeODcIHCDAuNC4xNi4xyAdY&sclient=gws-wiz&sei=vHNjaJ6vEJit4-EPl-rAmA4
+2025-07-01 11:06:05,270 [INFO] Found 75 links and 163 images
+2025-07-01 11:06:05,270 [INFO] Screenshot saved to screenshot_20250701_110605.png
+2025-07-01 11:06:05,287 [INFO] Successfully saved data to search_results.json
+2025-07-01 11:06:05,291 [INFO] Checking for CAPTCHA or verification page...
+2025-07-01 11:06:05,295 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-01 11:06:05,402 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-01 11:10:46,750 [INFO] Retrieving page content...
+2025-07-01 11:10:46,758 [INFO] Successfully retrieved page content
+2025-07-01 11:10:46,759 [INFO] Extracting articles from search results...
+2025-07-01 11:10:46,766 [INFO] Found 16 potential articles on the page
+2025-07-01 11:10:46,766 [INFO] Saving extracted articles to file...
+2025-07-01 11:10:46,786 [INFO] Successfully saved data to extracted_articles.json
+2025-07-01 11:10:46,786 [INFO] Selected article: Accessibility links
+2025-07-01 11:10:46,787 [INFO] URL: 
+2025-07-01 11:10:46,796 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 11:10:46,797 [INFO] Saved browsing session data
+2025-07-01 11:10:46,797 [INFO] Processing content with LLM...
+2025-07-01 11:10:47,193 [INFO] Querying local model... (this might take a moment)
+2025-07-01 11:15:09,915 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-01 11:15:34,794 [INFO] Successfully saved data to llm_interactions.json
+2025-07-01 11:15:34,797 [INFO] 
+LLM Response:
+ACTION: Navigate
+TARGET: #AI_News
+INPUT: None
+REASONING: The current page is about AI news and analysis. To continue searching for the latest AI news, it would be best to navigate to the main content section that lists the latest AI news stories.
+2025-07-01 11:15:34,800 [INFO] Airtable not available. All data has been saved to files.
+2025-07-01 11:15:34,801 [INFO] Waiting before closing...
+2025-07-01 11:15:49,838 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 11:15:49,839 [INFO] Saved final browsing session data
+2025-07-01 11:15:49,839 [INFO] Closing browser context...
+2025-07-01 11:15:49,952 [INFO] Closing browser...
+2025-07-01 11:15:50,780 [INFO] AI News Agent completed successfully.
+2025-07-01 13:04:05,303 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 13:04:05,304 [INFO] API Key exists: True
+2025-07-01 13:04:05,304 [INFO] Base ID exists: True
+2025-07-01 13:04:05,304 [INFO] Table name exists: True
+2025-07-01 13:04:05,305 [INFO] Google login available: False
+2025-07-01 13:04:05,305 [INFO] Airtable login available: False
+2025-07-01 13:04:05,305 [INFO] =================================
+
+2025-07-01 13:04:07,125 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 13:04:07,125 [WARNING] Will proceed with file storage only.
+2025-07-01 13:04:07,126 [INFO] Starting AI News Agent...
+2025-07-01 13:04:07,127 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 13:04:07,147 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 13:04:07,148 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 13:04:07,148 [INFO] Test record saved to file successfully!
+2025-07-01 13:04:07,149 [INFO] ================================
+
+2025-07-01 13:04:07,149 [INFO] Starting browser automation...
+2025-07-01 13:04:07,650 [INFO] Launching browser...
+2025-07-01 13:04:07,990 [INFO] Creating browser context...
+2025-07-01 13:04:08,066 [INFO] Creating new page...
+2025-07-01 13:04:08,317 [INFO] No Google credentials found. Skipping Google login.
+2025-07-01 13:04:08,341 [INFO] No Airtable credentials found. Skipping Airtable login.
+2025-07-01 13:04:08,342 [INFO] Navigating to Google (attempt 1)...
+2025-07-01 13:04:11,170 [INFO] Successfully loaded Google homepage
+2025-07-01 13:04:12,905 [INFO] Logging search engine page...
+2025-07-01 13:04:13,076 [INFO] Page Title: Google
+2025-07-01 13:04:13,077 [INFO] URL: https://www.google.com/
+2025-07-01 13:04:13,077 [INFO] Found 24 links and 1 images
+2025-07-01 13:04:13,077 [INFO] Screenshot saved to screenshot_20250701_130412.png
+2025-07-01 13:04:13,101 [INFO] Successfully saved data to search_engine.json
+2025-07-01 13:04:13,107 [INFO] Looking for search input field...
+2025-07-01 13:04:13,146 [INFO] Found search input with selector: textarea[name='q']
+2025-07-01 13:04:13,146 [INFO] Using selector: textarea[name='q']
+2025-07-01 13:04:14,407 [INFO] Typing search query: 'latest AI news today'
+2025-07-01 13:04:18,480 [INFO] Submitting search...
+2025-07-01 13:04:26,774 [INFO] Navigation after search completed
+2025-07-01 13:04:28,020 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&source=hp&ei=bI9jaN71NO2C4-EPnYmbkAY&iflsig=AOw8s4IAAAAAaGOdfIyi2iIGJr9IGwrNggGAYF6ayKeR&ved=0ahUKEwje2_vZkpuOAxVtwTgGHZ3EBmIQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNwjUPUDWLcZcAF4AJABAJgBjAKgAd0WqgEGMi4xNi4yuAEDyAEA-AEBmAIVoAK_F6gCCsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAggQLhiABBjUAsICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAhQQLhiABBixAxjRAxiDARjHARiKBZgDCfEFYU2symrB71GSBwYzLjE1LjOgB_J-sgcGMi4xNS4zuAe2F8IHBjAuNi4xNcgHUg&sclient=gws-wiz&sei=do9jaNywMoaJ4-EPz5fRoA4
+2025-07-01 13:04:28,021 [INFO] Logging search results page...
+2025-07-01 13:04:28,201 [INFO] Page Title: latest AI news today - Google Search
+2025-07-01 13:04:28,202 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&source=hp&ei=bI9jaN71NO2C4-EPnYmbkAY&iflsig=AOw8s4IAAAAAaGOdfIyi2iIGJr9IGwrNggGAYF6ayKeR&ved=0ahUKEwje2_vZkpuOAxVtwTgGHZ3EBmIQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNwjUPUDWLcZcAF4AJABAJgBjAKgAd0WqgEGMi4xNi4yuAEDyAEA-AEBmAIVoAK_F6gCCsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAggQLhiABBjUAsICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAhQQLhiABBixAxjRAxiDARjHARiKBZgDCfEFYU2symrB71GSBwYzLjE1LjOgB_J-sgcGMi4xNS4zuAe2F8IHBjAuNi4xNcgHUg&sclient=gws-wiz&sei=do9jaNywMoaJ4-EPz5fRoA4
+2025-07-01 13:04:28,203 [INFO] Found 68 links and 25 images
+2025-07-01 13:04:28,203 [INFO] Screenshot saved to screenshot_20250701_130428.png
+2025-07-01 13:04:28,228 [INFO] Successfully saved data to search_results.json
+2025-07-01 13:04:28,235 [INFO] Checking for CAPTCHA or verification page...
+2025-07-01 13:04:28,244 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-01 13:04:28,362 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-01 13:04:51,850 [INFO] Retrieving page content...
+2025-07-01 13:04:51,857 [INFO] Successfully retrieved page content
+2025-07-01 13:04:51,858 [INFO] Extracting articles from search results...
+2025-07-01 13:04:51,865 [INFO] Found 17 potential articles on the page
+2025-07-01 13:04:51,865 [INFO] Saving extracted articles to file...
+2025-07-01 13:04:51,894 [INFO] Successfully saved data to extracted_articles.json
+2025-07-01 13:04:51,894 [INFO] Selected article: Accessibility links
+2025-07-01 13:04:51,895 [INFO] URL: 
+2025-07-01 13:04:51,927 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 13:04:51,927 [INFO] Saved browsing session data
+2025-07-01 13:04:51,928 [INFO] Processing content with LLM...
+2025-07-01 13:04:52,481 [INFO] Querying local model... (this might take a moment)
+2025-07-01 13:07:16,379 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-01 13:07:40,198 [INFO] Successfully saved data to llm_interactions.json
+2025-07-01 13:07:40,200 [INFO] 
+LLM Response:
+ACTION: Navigate
+TARGET: #AI-News
+REASONING: The current page is about accessibility links, but the task is to search for the latest AI news. Navigating to the "AI News" section will allow us to explore the latest artificial intelligence news and insights.
+
+No input required as this action only involves navigation.
+2025-07-01 13:07:40,200 [INFO] Airtable not available. All data has been saved to files.
+2025-07-01 13:07:40,200 [INFO] Waiting before closing...
+2025-07-01 13:07:55,241 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 13:07:55,241 [INFO] Saved final browsing session data
+2025-07-01 13:07:55,241 [INFO] Closing browser context...
+2025-07-01 13:07:55,334 [INFO] Closing browser...
+2025-07-01 13:07:55,734 [INFO] AI News Agent completed successfully.
+2025-07-01 13:14:33,419 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 13:14:33,420 [INFO] API Key exists: True
+2025-07-01 13:14:33,420 [INFO] Base ID exists: True
+2025-07-01 13:14:33,420 [INFO] Table name exists: True
+2025-07-01 13:14:33,421 [INFO] Google login available: True
+2025-07-01 13:14:33,421 [INFO] Airtable login available: True
+2025-07-01 13:14:33,421 [INFO] =================================
+
+2025-07-01 13:14:34,924 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 13:14:34,925 [WARNING] Will proceed with file storage only.
+2025-07-01 13:14:34,926 [INFO] Starting AI News Agent...
+2025-07-01 13:14:34,927 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 13:14:34,949 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 13:14:34,949 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 13:14:34,950 [INFO] Test record saved to file successfully!
+2025-07-01 13:14:34,951 [INFO] ================================
+
+2025-07-01 13:14:34,952 [INFO] Starting browser automation...
+2025-07-01 13:14:35,476 [INFO] Launching browser...
+2025-07-01 13:14:35,869 [INFO] Creating browser context...
+2025-07-01 13:14:35,914 [INFO] Creating new page...
+2025-07-01 13:14:36,208 [INFO] Google credentials found. Attempting login...
+2025-07-01 13:14:36,209 [INFO] Starting Google login process...
+2025-07-01 13:14:38,372 [INFO] Loaded Google sign-in page
+2025-07-01 13:14:42,656 [INFO] Entered email address
+2025-07-01 13:14:47,499 [INFO] Entered password
+2025-07-01 13:14:48,666 [WARNING] Google login might have failed or requires additional verification
+2025-07-01 13:15:18,106 [INFO] Google login completed successfully
+2025-07-01 13:15:18,107 [INFO] Airtable credentials found. Attempting login...
+2025-07-01 13:15:18,107 [INFO] Starting Airtable login process...
+2025-07-01 13:15:18,151 [ERROR] Error during Airtable login: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://airtable.com/login", waiting until "networkidle"
+
+2025-07-01 13:15:18,433 [ERROR] Fatal error in browser automation: Page.screenshot: Target page, context or browser has been closed
+2025-07-01 13:15:18,436 [INFO] AI News Agent completed successfully.
+2025-07-01 13:15:27,126 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 13:15:27,127 [INFO] API Key exists: True
+2025-07-01 13:15:27,127 [INFO] Base ID exists: True
+2025-07-01 13:15:27,127 [INFO] Table name exists: True
+2025-07-01 13:15:27,127 [INFO] Google login available: True
+2025-07-01 13:15:27,127 [INFO] Airtable login available: True
+2025-07-01 13:15:27,127 [INFO] =================================
+
+2025-07-01 13:15:28,576 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appUeAOSP6KzzFYUn/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 13:15:28,577 [WARNING] Will proceed with file storage only.
+2025-07-01 13:15:28,578 [INFO] Starting AI News Agent...
+2025-07-01 13:15:28,579 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 13:15:28,595 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 13:15:28,595 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 13:15:28,596 [INFO] Test record saved to file successfully!
+2025-07-01 13:15:28,596 [INFO] ================================
+
+2025-07-01 13:15:28,597 [INFO] Starting browser automation...
+2025-07-01 13:15:29,075 [INFO] Launching browser...
+2025-07-01 13:15:29,293 [INFO] Creating browser context...
+2025-07-01 13:15:29,350 [INFO] Creating new page...
+2025-07-01 13:15:29,627 [INFO] Google credentials found. Attempting login...
+2025-07-01 13:15:29,647 [INFO] Starting Google login process...
+2025-07-01 13:15:31,661 [INFO] Loaded Google sign-in page
+2025-07-01 13:15:35,770 [INFO] Entered email address
+2025-07-01 13:15:40,716 [INFO] Entered password
+2025-07-01 13:15:41,559 [WARNING] Google login might have failed or requires additional verification
+2025-07-01 13:15:56,787 [INFO] Google login completed successfully
+2025-07-01 13:15:56,788 [INFO] Airtable credentials found. Attempting login...
+2025-07-01 13:15:56,789 [INFO] Starting Airtable login process...
+2025-07-01 13:15:57,915 [ERROR] Error during Airtable login: Page.goto: Navigation to "https://airtable.com/login" is interrupted by another navigation to "https://myaccount.google.com/?utm_source=sign_in_no_continue"
+Call log:
+  - navigating to "https://airtable.com/login", waiting until "networkidle"
+
+2025-07-01 13:16:03,474 [WARNING] Airtable login may not have been successful
+2025-07-01 13:16:03,474 [INFO] Navigating to Google (attempt 1)...
+2025-07-01 13:16:05,883 [INFO] Successfully loaded Google homepage
+2025-07-01 13:16:06,989 [INFO] Logging search engine page...
+2025-07-01 13:16:07,304 [INFO] Page Title: Google
+2025-07-01 13:16:07,304 [INFO] URL: https://www.google.com/
+2025-07-01 13:16:07,304 [INFO] Found 23 links and 1 images
+2025-07-01 13:16:07,305 [INFO] Screenshot saved to screenshot_20250701_131607.png
+2025-07-01 13:16:07,331 [INFO] Successfully saved data to search_engine.json
+2025-07-01 13:16:07,335 [INFO] Looking for search input field...
+2025-07-01 13:16:07,380 [INFO] Found search input with selector: textarea[name='q']
+2025-07-01 13:16:07,381 [INFO] Using selector: textarea[name='q']
+2025-07-01 13:16:08,998 [INFO] Typing search query: 'latest AI news today'
+2025-07-01 13:16:13,688 [INFO] Submitting search...
+2025-07-01 13:16:18,237 [INFO] Navigation after search completed
+2025-07-01 13:16:19,560 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&sxsrf=AE3TifNVCOOj9RGoMQOlibEEeaTHQPQl_g%3A1751355959878&source=hp&ei=N5JjaPDVMpuE4-EP5vay0Ak&iflsig=AOw8s4IAAAAAaGOgRy_bZo_8P9Qvu74dWgeonSL_OOW6&ved=0ahUKEwiwzfGulZuOAxUbwjgGHWa7DJoQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNcpUIMFWNYbcAF4AJABAJgB9AGgAbgSqgEGNi4xMy4xuAEDyAEA-AEBmAIVoALXE6gCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIXEC4YgAQYkQIYsQMY0QMYgwEYxwEYigXCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICEBAAGIAEGJECGIoFGEYY_wHCAhQQLhiABBixAxjRAxiDARjHARiKBcICERAAGIAEGJECGLEDGIMBGIoFmAMV8QXih-rToKACspIHBjYuMTMuMqAHt4MBsgcGNS4xMy4yuAfCE8IHBjItMTkuMsgHigE&sclient=gws-wiz
+2025-07-01 13:16:19,561 [INFO] Logging search results page...
+2025-07-01 13:16:19,949 [INFO] Page Title: latest AI news today - Google Search
+2025-07-01 13:16:19,950 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&sxsrf=AE3TifNVCOOj9RGoMQOlibEEeaTHQPQl_g%3A1751355959878&source=hp&ei=N5JjaPDVMpuE4-EP5vay0Ak&iflsig=AOw8s4IAAAAAaGOgRy_bZo_8P9Qvu74dWgeonSL_OOW6&ved=0ahUKEwiwzfGulZuOAxUbwjgGHWa7DJoQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNcpUIMFWNYbcAF4AJABAJgB9AGgAbgSqgEGNi4xMy4xuAEDyAEA-AEBmAIVoALXE6gCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIXEC4YgAQYkQIYsQMY0QMYgwEYxwEYigXCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICEBAAGIAEGJECGIoFGEYY_wHCAhQQLhiABBixAxjRAxiDARjHARiKBcICERAAGIAEGJECGLEDGIMBGIoFmAMV8QXih-rToKACspIHBjYuMTMuMqAHt4MBsgcGNS4xMy4yuAfCE8IHBjItMTkuMsgHigE&sclient=gws-wiz
+2025-07-01 13:16:19,950 [INFO] Found 77 links and 152 images
+2025-07-01 13:16:19,950 [INFO] Screenshot saved to screenshot_20250701_131619.png
+2025-07-01 13:16:19,975 [INFO] Successfully saved data to search_results.json
+2025-07-01 13:16:19,980 [INFO] Checking for CAPTCHA or verification page...
+2025-07-01 13:16:19,985 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-01 13:16:20,268 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-01 13:21:49,331 [INFO] Retrieving page content...
+2025-07-01 13:21:49,341 [INFO] Successfully retrieved page content
+2025-07-01 13:21:49,341 [INFO] Extracting articles from search results...
+2025-07-01 13:21:49,350 [INFO] Found 19 potential articles on the page
+2025-07-01 13:21:49,355 [INFO] Saving extracted articles to file...
+2025-07-01 13:21:49,377 [INFO] Successfully saved data to extracted_articles.json
+2025-07-01 13:21:49,377 [INFO] Selected article: Accessibility links
+2025-07-01 13:21:49,377 [INFO] URL: 
+2025-07-01 13:21:49,391 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 13:21:49,391 [INFO] Saved browsing session data
+2025-07-01 13:21:49,391 [INFO] Processing content with LLM...
+2025-07-01 13:21:49,814 [INFO] Querying local model... (this might take a moment)
+2025-07-01 13:26:00,900 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-01 13:26:32,569 [INFO] Successfully saved data to llm_interactions.json
+2025-07-01 13:26:32,571 [INFO] 
+LLM Response:
+ACTION: Click
+TARGET: #AI-News | Latest AI News, Analysis & Events (anchor link)
+INPUT: None
+REASONING: The current page is about accessibility links, but the main content of interest is the latest AI news. Clicking on this anchor link will take us directly to the AI news section, allowing us to explore the latest developments and trends in artificial intelligence.
+2025-07-01 13:26:32,583 [INFO] Airtable not available. All data has been saved to files.
+2025-07-01 13:26:32,583 [INFO] Waiting before closing...
+2025-07-01 13:26:47,607 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 13:26:47,608 [INFO] Saved final browsing session data
+2025-07-01 13:26:47,608 [INFO] Closing browser context...
+2025-07-01 13:26:47,715 [INFO] Closing browser...
+2025-07-01 13:26:48,131 [INFO] AI News Agent completed successfully.
+2025-07-01 15:08:01,289 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 15:08:01,290 [INFO] API Key exists: True
+2025-07-01 15:08:01,290 [INFO] Base ID exists: True
+2025-07-01 15:08:01,290 [INFO] Table name exists: True
+2025-07-01 15:08:01,290 [INFO] Google login available: True
+2025-07-01 15:08:01,290 [INFO] Airtable login available: True
+2025-07-01 15:08:01,291 [INFO] =================================
+
+2025-07-01 15:08:02,499 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appVe3b9jLnXmIxvz/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 15:08:02,499 [WARNING] Will proceed with file storage only.
+2025-07-01 15:08:02,500 [INFO] Starting AI News Agent...
+2025-07-01 15:08:02,501 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 15:08:02,516 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 15:08:02,516 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 15:08:02,516 [INFO] Test record saved to file successfully!
+2025-07-01 15:08:02,517 [INFO] ================================
+
+2025-07-01 15:08:02,517 [INFO] Starting browser automation...
+2025-07-01 15:08:05,445 [INFO] Launching browser...
+2025-07-01 15:08:06,499 [INFO] Creating browser context...
+2025-07-01 15:08:06,563 [INFO] Creating new page...
+2025-07-01 15:08:06,849 [INFO] Google credentials found. Attempting login...
+2025-07-01 15:08:06,851 [INFO] Starting Google login process...
+2025-07-01 15:08:08,832 [INFO] Loaded Google sign-in page
+2025-07-01 15:08:12,866 [INFO] Entered email address
+2025-07-01 15:08:17,591 [INFO] Entered password
+2025-07-01 15:08:18,698 [WARNING] Google login might have failed or requires additional verification
+2025-07-01 15:08:51,202 [INFO] Google login completed successfully
+2025-07-01 15:08:51,202 [INFO] Airtable credentials found. Attempting login...
+2025-07-01 15:08:51,202 [INFO] Starting Airtable login process...
+2025-07-01 15:08:54,492 [INFO] Loaded Airtable login page
+2025-07-01 15:08:58,479 [INFO] Entered email
+2025-07-01 15:09:08,490 [ERROR] Error during Airtable login: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+
+2025-07-01 15:09:17,861 [WARNING] Airtable login may not have been successful
+2025-07-01 15:09:17,861 [INFO] Navigating to Google (attempt 1)...
+2025-07-01 15:09:19,789 [INFO] Successfully loaded Google homepage
+2025-07-01 15:09:21,193 [INFO] Logging search engine page...
+2025-07-01 15:09:21,345 [INFO] Page Title: Google
+2025-07-01 15:09:21,345 [INFO] URL: https://www.google.com/
+2025-07-01 15:09:21,346 [INFO] Found 23 links and 1 images
+2025-07-01 15:09:21,346 [INFO] Screenshot saved to screenshot_20250701_150921.png
+2025-07-01 15:09:21,363 [INFO] Successfully saved data to search_engine.json
+2025-07-01 15:09:21,365 [INFO] Looking for search input field...
+2025-07-01 15:09:21,398 [INFO] Found search input with selector: textarea[name='q']
+2025-07-01 15:09:21,399 [INFO] Using selector: textarea[name='q']
+2025-07-01 15:09:22,710 [INFO] Typing search query: 'latest AI news today'
+2025-07-01 15:09:26,994 [INFO] Submitting search...
+2025-07-01 15:09:29,613 [INFO] Navigation after search completed
+2025-07-01 15:09:32,161 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=78b1fb120129ff6f&sxsrf=AE3TifMbT6T1wYWqgGvKTiUUAh6Dpuw1zg%3A1751362754431&source=hp&ei=wqxjaO79F9aV4-EPl_7SqQQ&iflsig=AOw8s4IAAAAAaGO60ht-ohC4X1Vyj8FdaDhgLQMXRT2m&ved=0ahUKEwju5uTWrpuOAxXWyjgGHRe_NEUQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8SVQxgRY8xhwAXgAkAEAmAGDAaABjxCqAQQ5LjExuAEDyAEA-AEBmAIVoAKJEagCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQABiABMICBRAuGIAEwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAhEQABiABBiRAhixAxiDARiKBcICDhAAGIAEGJECGLEDGIoFmAML8QUmDtCny4b7h5IHBDkuMTKgB7eWAbIHBDguMTK4B_0QwgcIMC41LjEzLjPIB2g&sclient=gws-wiz
+2025-07-01 15:09:32,163 [INFO] Logging search results page...
+2025-07-01 15:09:32,364 [INFO] Page Title: latest AI news today - Google Search
+2025-07-01 15:09:32,364 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=78b1fb120129ff6f&sxsrf=AE3TifMbT6T1wYWqgGvKTiUUAh6Dpuw1zg%3A1751362754431&source=hp&ei=wqxjaO79F9aV4-EPl_7SqQQ&iflsig=AOw8s4IAAAAAaGO60ht-ohC4X1Vyj8FdaDhgLQMXRT2m&ved=0ahUKEwju5uTWrpuOAxXWyjgGHRe_NEUQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8SVQxgRY8xhwAXgAkAEAmAGDAaABjxCqAQQ5LjExuAEDyAEA-AEBmAIVoAKJEagCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQABiABMICBRAuGIAEwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAhEQABiABBiRAhixAxiDARiKBcICDhAAGIAEGJECGLEDGIoFmAML8QUmDtCny4b7h5IHBDkuMTKgB7eWAbIHBDguMTK4B_0QwgcIMC41LjEzLjPIB2g&sclient=gws-wiz
+2025-07-01 15:09:32,365 [INFO] Found 79 links and 100 images
+2025-07-01 15:09:32,365 [INFO] Screenshot saved to screenshot_20250701_150932.png
+2025-07-01 15:09:32,383 [INFO] Successfully saved data to search_results.json
+2025-07-01 15:09:32,386 [INFO] Checking for CAPTCHA or verification page...
+2025-07-01 15:09:32,390 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-01 15:09:32,516 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-01 17:50:50,494 [ERROR] Runtime error: Page.reload: Target page, context or browser has been closed
+2025-07-01 17:50:50,501 [ERROR] Could not take error screenshot: Page.screenshot: Target page, context or browser has been closed
+2025-07-01 17:50:50,514 [INFO] Successfully saved data to browsing_session.json
+2025-07-01 17:50:50,514 [INFO] Saved final browsing session data
+2025-07-01 17:50:50,514 [INFO] Closing browser context...
+2025-07-01 17:50:50,550 [INFO] Closing browser...
+2025-07-01 17:50:50,758 [INFO] AI News Agent completed successfully.
+2025-07-01 17:50:55,399 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 17:50:55,399 [INFO] API Key exists: True
+2025-07-01 17:50:55,399 [INFO] Base ID exists: True
+2025-07-01 17:50:55,399 [INFO] Table name exists: True
+2025-07-01 17:50:55,399 [INFO] Google login available: True
+2025-07-01 17:50:55,399 [INFO] Airtable login available: True
+2025-07-01 17:50:55,400 [INFO] =================================
+
+2025-07-01 17:50:56,579 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appVe3b9jLnXmIxvz/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 17:50:56,580 [WARNING] Will proceed with file storage only.
+2025-07-01 17:50:56,581 [INFO] Starting AI News Agent...
+2025-07-01 17:50:56,582 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 17:50:56,594 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 17:50:56,594 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 17:50:56,594 [INFO] Test record saved to file successfully!
+2025-07-01 17:50:56,594 [INFO] ================================
+
+2025-07-01 17:50:56,595 [INFO] Starting browser automation...
+2025-07-01 17:50:57,034 [INFO] Launching browser...
+2025-07-01 17:50:57,237 [INFO] Creating browser context...
+2025-07-01 17:50:57,271 [INFO] Creating new page...
+2025-07-01 17:50:57,589 [INFO] Google credentials found. Attempting login...
+2025-07-01 17:50:57,592 [INFO] Starting Google login process...
+2025-07-01 17:50:59,545 [INFO] Loaded Google sign-in page
+2025-07-01 17:51:02,937 [INFO] Entered email address
+2025-07-01 17:51:13,674 [ERROR] Error during Google login: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+    24 × locator resolved to hidden <input class="Hvu6D" tabindex="-1" type="password" jsname="RHeR4d" aria-hidden="true" spellcheck="false" name="hiddenPassword"/>
+
+2025-07-01 17:51:48,973 [WARNING] Google login may not have been successful
+2025-07-01 17:51:48,973 [INFO] Airtable credentials found. Attempting login...
+2025-07-01 17:51:48,973 [INFO] Starting Airtable login process...
+2025-07-01 17:51:48,976 [ERROR] Error during Airtable login: Page.goto: Target page, context or browser has been closed
+2025-07-01 17:51:49,152 [ERROR] Fatal error in browser automation: Page.screenshot: Target page, context or browser has been closed
+2025-07-01 17:51:49,153 [INFO] AI News Agent completed successfully.
+2025-07-01 17:51:52,721 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-01 17:51:52,721 [INFO] API Key exists: True
+2025-07-01 17:51:52,722 [INFO] Base ID exists: True
+2025-07-01 17:51:52,722 [INFO] Table name exists: True
+2025-07-01 17:51:52,722 [INFO] Google login available: True
+2025-07-01 17:51:52,722 [INFO] Airtable login available: True
+2025-07-01 17:51:52,722 [INFO] =================================
+
+2025-07-01 17:51:53,854 [WARNING] WARNING: Could not retrieve Airtable records: ('401 Client Error: Unauthorized for url: https://api.airtable.com/v0/appVe3b9jLnXmIxvz/AI%20Demo?maxRecords=1', "{'type': 'AUTHENTICATION_REQUIRED', 'message': 'Authentication required'}")
+2025-07-01 17:51:53,855 [WARNING] Will proceed with file storage only.
+2025-07-01 17:51:53,856 [INFO] Starting AI News Agent...
+2025-07-01 17:51:53,858 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-01 17:51:53,872 [INFO] Successfully saved data to browsing_results.json
+2025-07-01 17:51:53,872 [INFO] Airtable not available. Skipping Airtable test record.
+2025-07-01 17:51:53,873 [INFO] Test record saved to file successfully!
+2025-07-01 17:51:53,873 [INFO] ================================
+
+2025-07-01 17:51:53,873 [INFO] Starting browser automation...
+2025-07-01 17:51:54,314 [INFO] Launching browser...
+2025-07-01 17:51:54,496 [INFO] Creating browser context...
+2025-07-01 17:51:54,529 [INFO] Creating new page...
+2025-07-01 17:51:54,800 [INFO] Google credentials found. Attempting login...
+2025-07-01 17:51:54,805 [INFO] Starting Google login process...
+2025-07-01 17:51:56,663 [INFO] Loaded Google sign-in page
+2025-07-01 17:52:00,827 [INFO] Entered email address
+2025-07-01 17:52:05,511 [INFO] Entered password
+2025-07-01 17:52:06,189 [WARNING] Google login might have failed or requires additional verification
+2025-07-01 17:52:37,891 [INFO] Google login completed successfully
+2025-07-01 17:52:37,892 [INFO] Airtable credentials found. Attempting login...
+2025-07-01 17:52:37,892 [INFO] Starting Airtable login process...
+2025-07-01 17:52:38,828 [ERROR] Error during Airtable login: Page.goto: Navigation to "https://airtable.com/login" is interrupted by another navigation to "https://myaccount.google.com/?utm_source=sign_in_no_continue"
+Call log:
+  - navigating to "https://airtable.com/login", waiting until "networkidle"
+
+2025-07-01 17:52:49,167 [WARNING] Airtable login may not have been successful
+2025-07-01 17:52:49,167 [INFO] Navigating to Google (attempt 1)...
+2025-07-01 17:52:51,196 [INFO] Successfully loaded Google homepage
+2025-07-01 17:52:52,056 [INFO] Logging search engine page...
+2025-07-01 17:52:52,212 [INFO] Page Title: Google
+2025-07-01 17:52:52,212 [INFO] URL: https://www.google.com/
+2025-07-01 17:52:52,212 [INFO] Found 23 links and 1 images
+2025-07-01 17:52:52,212 [INFO] Screenshot saved to screenshot_20250701_175252.png
+2025-07-01 17:52:52,230 [INFO] Successfully saved data to search_engine.json
+2025-07-01 17:52:52,233 [INFO] Looking for search input field...
+2025-07-01 17:52:52,260 [INFO] Found search input with selector: textarea[name='q']
+2025-07-01 17:52:52,260 [INFO] Using selector: textarea[name='q']
+2025-07-01 17:52:53,348 [INFO] Typing search query: 'latest AI news today'
+2025-07-01 17:52:56,217 [INFO] Submitting search...
+2025-07-01 17:53:02,469 [INFO] Navigation after search completed
+2025-07-01 17:53:04,248 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=eee2bc57351991e6&sxsrf=AE3TifMf1D3BWhz1LS0nj_K-00x5FEscMA%3A1751372565982&source=hp&ei=FdNjaMvsOZq5vr0P7J_o6AU&iflsig=AOw8s4IAAAAAaGPhJVFeyQoiGE5PcHxWaHZvrE5Uwm6c&ved=0ahUKEwiLy6ad05uOAxWanK8BHewPGl0Q4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8htQxgVYyhZwAXgAkAEBmAHTAaAB1Q-qAQYxNC41LjG4AQPIAQD4AQGYAhSgAswOqAIKwgIHECMYJxjqAsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIFEC4YgATCAggQABiABBixA8ICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAZgDC_EFRQqLVg0gEBmSBwQxMy43oAf_kwGyBwQxMi43uAfBDsIHCDAuMTEuOC4xyAdA&sclient=gws-wiz
+2025-07-01 17:53:04,249 [INFO] Logging search results page...
+2025-07-01 17:53:04,405 [INFO] Page Title: latest AI news today - Google Search
+2025-07-01 17:53:04,406 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=eee2bc57351991e6&sxsrf=AE3TifMf1D3BWhz1LS0nj_K-00x5FEscMA%3A1751372565982&source=hp&ei=FdNjaMvsOZq5vr0P7J_o6AU&iflsig=AOw8s4IAAAAAaGPhJVFeyQoiGE5PcHxWaHZvrE5Uwm6c&ved=0ahUKEwiLy6ad05uOAxWanK8BHewPGl0Q4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8htQxgVYyhZwAXgAkAEBmAHTAaAB1Q-qAQYxNC41LjG4AQPIAQD4AQGYAhSgAswOqAIKwgIHECMYJxjqAsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIFEC4YgATCAggQABiABBixA8ICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAZgDC_EFRQqLVg0gEBmSBwQxMy43oAf_kwGyBwQxMi43uAfBDsIHCDAuMTEuOC4xyAdA&sclient=gws-wiz
+2025-07-01 17:53:04,406 [INFO] Found 83 links and 136 images
+2025-07-01 17:53:04,406 [INFO] Screenshot saved to screenshot_20250701_175304.png
+2025-07-01 17:53:04,418 [INFO] Successfully saved data to search_results.json
+2025-07-01 17:53:04,421 [INFO] Checking for CAPTCHA or verification page...
+2025-07-01 17:53:04,426 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-01 17:53:04,538 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-02 10:11:19,141 [INFO] 
+===== ENVIRONMENT VARIABLES =====
+2025-07-02 10:11:19,141 [INFO] Airtable Token exists: True
+2025-07-02 10:11:19,141 [INFO] Token format valid: True
+2025-07-02 10:11:19,142 [INFO] Base ID exists: True
+2025-07-02 10:11:19,142 [INFO] Base ID format: True
+2025-07-02 10:11:19,142 [INFO] Table name exists: True
+2025-07-02 10:11:19,142 [INFO] Google login available: True
+2025-07-02 10:11:19,142 [INFO] Airtable login available: True
+2025-07-02 10:11:19,142 [INFO] =================================
+
+2025-07-02 10:11:20,818 [ERROR] API test failed: 401 - {"error":{"type":"AUTHENTICATION_REQUIRED","message":"Authentication required"}}
+2025-07-02 10:11:20,826 [WARNING] Airtable integration disabled. Will use file storage only.
+2025-07-02 10:11:20,827 [INFO] Starting AI News Agent...
+2025-07-02 10:11:20,828 [INFO] ==================================================
+2025-07-02 10:11:20,828 [INFO] SETUP CHECKLIST:
+2025-07-02 10:11:20,905 [INFO]   AIRTABLE_PAT=pat... (Personal Access Token)
+2025-07-02 10:11:20,906 [INFO]   AIRTABLE_BASE_ID=app... (Base ID)
+2025-07-02 10:11:20,906 [INFO]   AIRTABLE_TABLE_NAME=Your Table Name
+2025-07-02 10:11:20,906 [INFO]   GOOGLE_EMAIL=your.email@gmail.com
+2025-07-02 10:11:20,907 [INFO]   GOOGLE_PASSWORD=your_password
+2025-07-02 10:11:20,907 [INFO] ==================================================
+2025-07-02 10:11:20,909 [INFO] 
+===== CREATING TEST RECORD =====
+2025-07-02 10:11:20,936 [INFO] Successfully saved data to browsing_results.json
+2025-07-02 10:11:21,019 [INFO] ================================
+
+2025-07-02 10:11:21,023 [INFO] Starting browser automation...
+2025-07-02 10:11:28,980 [INFO] Launching browser...
+2025-07-02 10:11:29,484 [INFO] Creating browser context...
+2025-07-02 10:11:29,587 [INFO] Creating new page...
+2025-07-02 10:11:29,856 [INFO] Google credentials found. Attempting login...
+2025-07-02 10:11:29,861 [INFO] Starting Google login process...
+2025-07-02 10:11:33,018 [INFO] Loaded Google sign-in page
+2025-07-02 10:11:37,236 [INFO] Entered email address
+2025-07-02 10:11:42,324 [INFO] Entered password
+2025-07-02 10:11:43,314 [WARNING] Google login might have failed or requires additional verification
+2025-07-02 10:12:28,899 [INFO] Google login completed successfully
+2025-07-02 10:12:28,899 [INFO] Using Airtable API - skipping web login
+2025-07-02 10:12:28,900 [INFO] Navigating to Google (attempt 1)...
+2025-07-02 10:12:58,913 [WARNING] Navigation attempt 1 failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/", waiting until "networkidle"
+
+2025-07-02 10:13:00,921 [INFO] Navigating to Google (attempt 2)...
+2025-07-02 10:13:03,676 [INFO] Successfully loaded Google homepage
+2025-07-02 10:13:04,674 [INFO] Logging search engine page...
+2025-07-02 10:13:04,988 [INFO] Page Title: Google
+2025-07-02 10:13:04,989 [INFO] URL: https://www.google.com/
+2025-07-02 10:13:04,989 [INFO] Found 23 links and 1 images
+2025-07-02 10:13:04,989 [INFO] Screenshot saved to screenshot_20250702_101304.png
+2025-07-02 10:13:05,011 [INFO] Successfully saved data to search_engine.json
+2025-07-02 10:13:05,016 [INFO] Looking for search input field...
+2025-07-02 10:13:05,071 [INFO] Found search input with selector: textarea[name='q']
+2025-07-02 10:13:05,072 [INFO] Using selector: textarea[name='q']
+2025-07-02 10:13:06,131 [INFO] Typing search query: 'latest AI news today'
+2025-07-02 10:13:09,519 [INFO] Submitting search...
+2025-07-02 10:13:20,617 [INFO] Navigation after search completed
+2025-07-02 10:13:22,988 [INFO] Search completed: https://www.google.com/search?q=latest+AI+news+today&sca_esv=005b6c4fc39c80c5&sxsrf=AE3TifP2vSXWebk12Scv9QQi9UifGWgJag%3A1751431381122&source=hp&ei=1bhkaP_EBeDl4-EPqbCSoAs&iflsig=AOw8s4IAAAAAaGTG5WgiFnXW1U3YiCREWKpn2pXIKcJF&ved=0ahUKEwi_g8aqrp2OAxXg8jgGHSmYBLQQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIiCBQ1QVYqhpwAXgAkAEAmAHpAqAB_yCqAQgxLjExLjQuNLgBA8gBAPgBAZgCFaACjSKoAgrCAgcQIxgnGOoCwgIKEAAYAxjqAhiPAcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAggQABiABBixA8ICBRAuGIAEwgIIEC4YgAQY1ALCAggQLhiABBixA8ICDhAuGIAEGLEDGIMBGIoFmAMT8QVBuuezaQG1NpIHCDEuMTAuNS41oAe1lgGyBwgwLjEwLjUuNbgH-iHCBwYyLTE5LjLIB3k&sclient=gws-wiz
+2025-07-02 10:13:22,989 [INFO] Logging search results page...
+2025-07-02 10:13:23,221 [INFO] Page Title: latest AI news today - Google Search
+2025-07-02 10:13:23,228 [INFO] URL: https://www.google.com/search?q=latest+AI+news+today&sca_esv=005b6c4fc39c80c5&sxsrf=AE3TifP2vSXWebk12Scv9QQi9UifGWgJag%3A1751431381122&source=hp&ei=1bhkaP_EBeDl4-EPqbCSoAs&iflsig=AOw8s4IAAAAAaGTG5WgiFnXW1U3YiCREWKpn2pXIKcJF&ved=0ahUKEwi_g8aqrp2OAxXg8jgGHSmYBLQQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIiCBQ1QVYqhpwAXgAkAEAmAHpAqAB_yCqAQgxLjExLjQuNLgBA8gBAPgBAZgCFaACjSKoAgrCAgcQIxgnGOoCwgIKEAAYAxjqAhiPAcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAggQABiABBixA8ICBRAuGIAEwgIIEC4YgAQY1ALCAggQLhiABBixA8ICDhAuGIAEGLEDGIMBGIoFmAMT8QVBuuezaQG1NpIHCDEuMTAuNS41oAe1lgGyBwgwLjEwLjUuNbgH-iHCBwYyLTE5LjLIB3k&sclient=gws-wiz
+2025-07-02 10:13:23,267 [INFO] Found 80 links and 162 images
+2025-07-02 10:13:23,269 [INFO] Screenshot saved to screenshot_20250702_101323.png
+2025-07-02 10:13:23,322 [INFO] Successfully saved data to search_results.json
+2025-07-02 10:13:23,338 [INFO] Checking for CAPTCHA or verification page...
+2025-07-02 10:13:23,346 [WARNING] Detected CAPTCHA or verification page. Taking screenshot...
+2025-07-02 10:13:23,520 [INFO] Please solve the CAPTCHA manually and press Enter to continue...
+2025-07-02 10:13:34,930 [INFO] Retrieving page content...
+2025-07-02 10:13:34,938 [INFO] Successfully retrieved page content
+2025-07-02 10:13:34,939 [INFO] Extracting articles from search results...
+2025-07-02 10:13:34,947 [INFO] Found 19 potential articles on the page
+2025-07-02 10:13:34,947 [INFO] Saving extracted articles to file...
+2025-07-02 10:13:34,964 [INFO] Successfully saved data to extracted_articles.json
+2025-07-02 10:13:34,965 [INFO] Found 17 articles with valid URLs
+2025-07-02 10:13:34,965 [INFO] Selected article: Search Results
+2025-07-02 10:13:34,965 [INFO] URL: https://www.artificialintelligence-news.com/
+2025-07-02 10:13:34,965 [INFO] Visiting article page: https://www.artificialintelligence-news.com/
+2025-07-02 10:13:52,958 [INFO] Logging article page...
+2025-07-02 10:13:53,617 [INFO] Page Title: AI News | Latest AI News, Analysis & Events
+2025-07-02 10:13:53,617 [INFO] URL: https://www.artificialintelligence-news.com/
+2025-07-02 10:13:53,618 [INFO] Found 389 links and 46 images
+2025-07-02 10:13:53,621 [INFO] Screenshot saved to screenshot_20250702_101353.png
+2025-07-02 10:13:53,622 [INFO] Successfully saved data to article_page.json
+2025-07-02 10:13:53,627 [INFO] Extracting full article content...
+2025-07-02 10:13:53,652 [INFO] Successfully saved data to selected_article.json
+2025-07-02 10:13:53,652 [INFO] Saved selected article with full content
+2025-07-02 10:13:53,664 [INFO] Successfully saved data to browsing_session.json
+2025-07-02 10:13:53,665 [INFO] Saved browsing session data
+2025-07-02 10:13:53,665 [INFO] Processing content with LLM...
+2025-07-02 10:13:54,073 [INFO] Querying local model... (this might take a moment)
+2025-07-02 10:17:40,624 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-02 10:18:12,344 [INFO] Successfully saved data to llm_interactions.json
+2025-07-02 10:18:12,346 [INFO] 
+LLM Response:
+ACTION: Click
+TARGET: #AI_News | Latest AI News, Analysis & Events (the link at the top of the page)
+INPUT: None
+REASONING: The task is to search for the latest AI news, and this link appears to be a good starting point. By clicking on it, we can access the latest AI news and analysis, which will help us stay up-to-date with the latest developments in the field.
+2025-07-02 10:18:12,349 [INFO] Waiting before closing...
+2025-07-02 10:18:27,392 [INFO] Successfully saved data to browsing_session.json
+2025-07-02 10:18:27,392 [INFO] Saved final browsing session data
+2025-07-02 10:18:27,392 [INFO] Closing browser context...
+2025-07-02 10:18:27,441 [INFO] Closing browser...
+2025-07-02 10:50:07,306 [INFO] Loaded Google sign-in page
+2025-07-02 10:50:11,298 [INFO] Entered email address
+2025-07-02 10:50:15,588 [INFO] Entered password
+2025-07-02 10:55:48,300 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-02 11:05:13,774 [INFO] Loaded Google sign-in page
+2025-07-02 11:05:17,746 [INFO] Entered email address
+2025-07-02 11:05:21,678 [INFO] Entered password

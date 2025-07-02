@@ -1,0 +1,236 @@
+[
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-06-30T17:39:44.348731",
+    "pages_visited": [
+      {
+        "url": "https://www.bing.com/",
+        "title": "Search - Microsoft Bing",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.bing.com/search?q=latest+AI+news+today&form=QBLH&sp=-1&ghc=1&lq=0&pq=latest+ai+news+today&sc=12-20&qs=n&sk=&cvid=B10CCDA0FA7544E2A20E8758C55F8B73",
+        "title": "latest AI news today - Search",
+        "type": "search_results"
+      },
+      {
+        "url": "https://www.bing.com/news/search?q=Latest+AI&eventans=1&eventland=0&eventrel=1&qpvt=latest+AI+news+today&FORM=EWRE",
+        "title": "Latest AI - Search News",
+        "type": "article"
+      }
+    ],
+    "end_time": "2025-06-30T17:41:48.143239",
+    "timestamp": "2025-06-30T17:41:48.143250"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-06-30T17:39:44.348731",
+    "pages_visited": [
+      {
+        "url": "https://www.bing.com/",
+        "title": "Search - Microsoft Bing",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.bing.com/search?q=latest+AI+news+today&form=QBLH&sp=-1&ghc=1&lq=0&pq=latest+ai+news+today&sc=12-20&qs=n&sk=&cvid=B10CCDA0FA7544E2A20E8758C55F8B73",
+        "title": "latest AI news today - Search",
+        "type": "search_results"
+      },
+      {
+        "url": "https://www.bing.com/news/search?q=Latest+AI&eventans=1&eventland=0&eventrel=1&qpvt=latest+AI+news+today&FORM=EWRE",
+        "title": "Latest AI - Search News",
+        "type": "article"
+      }
+    ],
+    "end_time": "2025-06-30T17:48:10.559727",
+    "timestamp": "2025-06-30T17:41:48.143250",
+    "status": "completed"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T10:55:21.975038",
+    "pages_visited": [],
+    "end_time": "2025-07-01T10:55:43.512062",
+    "status": "completed",
+    "timestamp": "2025-07-01T10:55:43.512077"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T11:05:51.648330",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=9d7bdfe3961b08c9&source=hp&ei=s3NjaK-GNuWC4-EPv5aQsQQ&iflsig=AOw8s4IAAAAAaGOBw7PL3S2oOcSWIJHdQrZEofZJec7b&ved=0ahUKEwjvq-6h-JqOAxVlwTgGHT8LJEYQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIAkUL0EWLAYcAF4AJABAJgBcqABrgyqAQQxOC4yuAEDyAEA-AEBmAIVoAKUDagCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQLhiABMICCBAAGIAEGLEDwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIUEC4YgAQYsQMY0QMYgwEYxwEYigWYAwXxBQqF6QhMv3dPkgcEMTkuMqAH9X6yBwQxOC4yuAeODcIHCDAuNC4xNi4xyAdY&sclient=gws-wiz&sei=vHNjaJ6vEJit4-EPl-rAmA4",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T11:10:46.787151",
+    "timestamp": "2025-07-01T11:10:46.787159"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T11:05:51.648330",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=9d7bdfe3961b08c9&source=hp&ei=s3NjaK-GNuWC4-EPv5aQsQQ&iflsig=AOw8s4IAAAAAaGOBw7PL3S2oOcSWIJHdQrZEofZJec7b&ved=0ahUKEwjvq-6h-JqOAxVlwTgGHT8LJEYQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIAkUL0EWLAYcAF4AJABAJgBcqABrgyqAQQxOC4yuAEDyAEA-AEBmAIVoAKUDagCCsICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQLhiABMICCBAAGIAEGLEDwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIUEC4YgAQYsQMY0QMYgwEYxwEYigWYAwXxBQqF6QhMv3dPkgcEMTkuMqAH9X6yBwQxOC4yuAeODcIHCDAuNC4xNi4xyAdY&sclient=gws-wiz&sei=vHNjaJ6vEJit4-EPl-rAmA4",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T11:15:49.815371",
+    "timestamp": "2025-07-01T11:10:46.787159",
+    "status": "completed"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T13:04:08.342229",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&source=hp&ei=bI9jaN71NO2C4-EPnYmbkAY&iflsig=AOw8s4IAAAAAaGOdfIyi2iIGJr9IGwrNggGAYF6ayKeR&ved=0ahUKEwje2_vZkpuOAxVtwTgGHZ3EBmIQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNwjUPUDWLcZcAF4AJABAJgBjAKgAd0WqgEGMi4xNi4yuAEDyAEA-AEBmAIVoAK_F6gCCsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAggQLhiABBjUAsICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAhQQLhiABBixAxjRAxiDARjHARiKBZgDCfEFYU2symrB71GSBwYzLjE1LjOgB_J-sgcGMi4xNS4zuAe2F8IHBjAuNi4xNcgHUg&sclient=gws-wiz&sei=do9jaNywMoaJ4-EPz5fRoA4",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T13:04:51.895359",
+    "timestamp": "2025-07-01T13:04:51.895370"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T13:04:08.342229",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&source=hp&ei=bI9jaN71NO2C4-EPnYmbkAY&iflsig=AOw8s4IAAAAAaGOdfIyi2iIGJr9IGwrNggGAYF6ayKeR&ved=0ahUKEwje2_vZkpuOAxVtwTgGHZ3EBmIQ4dUDCA8&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNwjUPUDWLcZcAF4AJABAJgBjAKgAd0WqgEGMi4xNi4yuAEDyAEA-AEBmAIVoAK_F6gCCsICChAAGAMY6gIYjwHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIoFwgILEAAYgAQYsQMYgwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAggQLhiABBjUAsICDhAuGIAEGLEDGIMBGIoFwgIOEC4YgAQYsQMY0QMYxwHCAhQQLhiABBixAxjRAxiDARjHARiKBZgDCfEFYU2symrB71GSBwYzLjE1LjOgB_J-sgcGMi4xNS4zuAe2F8IHBjAuNi4xNcgHUg&sclient=gws-wiz&sei=do9jaNywMoaJ4-EPz5fRoA4",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T13:07:55.210446",
+    "timestamp": "2025-07-01T13:04:51.895370",
+    "status": "completed"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T13:16:03.474550",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&sxsrf=AE3TifNVCOOj9RGoMQOlibEEeaTHQPQl_g%3A1751355959878&source=hp&ei=N5JjaPDVMpuE4-EP5vay0Ak&iflsig=AOw8s4IAAAAAaGOgRy_bZo_8P9Qvu74dWgeonSL_OOW6&ved=0ahUKEwiwzfGulZuOAxUbwjgGHWa7DJoQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNcpUIMFWNYbcAF4AJABAJgB9AGgAbgSqgEGNi4xMy4xuAEDyAEA-AEBmAIVoALXE6gCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIXEC4YgAQYkQIYsQMY0QMYgwEYxwEYigXCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICEBAAGIAEGJECGIoFGEYY_wHCAhQQLhiABBixAxjRAxiDARjHARiKBcICERAAGIAEGJECGLEDGIMBGIoFmAMV8QXih-rToKACspIHBjYuMTMuMqAHt4MBsgcGNS4xMy4yuAfCE8IHBjItMTkuMsgHigE&sclient=gws-wiz",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T13:21:49.378103",
+    "timestamp": "2025-07-01T13:21:49.378120"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T13:16:03.474550",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=32f9ae821a1b1a5d&sxsrf=AE3TifNVCOOj9RGoMQOlibEEeaTHQPQl_g%3A1751355959878&source=hp&ei=N5JjaPDVMpuE4-EP5vay0Ak&iflsig=AOw8s4IAAAAAaGOgRy_bZo_8P9Qvu74dWgeonSL_OOW6&ved=0ahUKEwiwzfGulZuOAxUbwjgGHWa7DJoQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIFEAAYgAQyBhAAGBYYHjIIEAAYFhgKGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNcpUIMFWNYbcAF4AJABAJgB9AGgAbgSqgEGNi4xMy4xuAEDyAEA-AEBmAIVoALXE6gCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIXEC4YgAQYkQIYsQMY0QMYgwEYxwEYigXCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAhEQLhiABBiRAhjRAxjHARiKBcICCBAuGIAEGNQCwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICEBAAGIAEGJECGIoFGEYY_wHCAhQQLhiABBixAxjRAxiDARjHARiKBcICERAAGIAEGJECGLEDGIMBGIoFmAMV8QXih-rToKACspIHBjYuMTMuMqAHt4MBsgcGNS4xMy4yuAfCE8IHBjItMTkuMsgHigE&sclient=gws-wiz",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T13:26:47.586314",
+    "timestamp": "2025-07-01T13:21:49.378120",
+    "status": "completed"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-01T15:09:17.861529",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=78b1fb120129ff6f&sxsrf=AE3TifMbT6T1wYWqgGvKTiUUAh6Dpuw1zg%3A1751362754431&source=hp&ei=wqxjaO79F9aV4-EPl_7SqQQ&iflsig=AOw8s4IAAAAAaGO60ht-ohC4X1Vyj8FdaDhgLQMXRT2m&ved=0ahUKEwju5uTWrpuOAxXWyjgGHRe_NEUQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8SVQxgRY8xhwAXgAkAEAmAGDAaABjxCqAQQ5LjExuAEDyAEA-AEBmAIVoAKJEagCCsICBxAjGCcY6gLCAgoQABgDGOoCGI8BwgIKEC4YAxjqAhiPAcICCxAAGIAEGJECGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBixAxiKBcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAgUQABiABMICBRAuGIAEwgIIEC4YgAQY1ALCAg4QLhiABBixAxiDARiKBcICDhAuGIAEGLEDGNEDGMcBwgIIEAAYgAQYsQPCAhEQABiABBiRAhixAxiDARiKBcICDhAAGIAEGJECGLEDGIoFmAML8QUmDtCny4b7h5IHBDkuMTKgB7eWAbIHBDguMTK4B_0QwgcIMC41LjEzLjPIB2g&sclient=gws-wiz",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      }
+    ],
+    "end_time": "2025-07-01T17:50:50.501947",
+    "status": "completed",
+    "timestamp": "2025-07-01T17:50:50.502044"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-02T10:12:28.900056",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=005b6c4fc39c80c5&sxsrf=AE3TifP2vSXWebk12Scv9QQi9UifGWgJag%3A1751431381122&source=hp&ei=1bhkaP_EBeDl4-EPqbCSoAs&iflsig=AOw8s4IAAAAAaGTG5WgiFnXW1U3YiCREWKpn2pXIKcJF&ved=0ahUKEwi_g8aqrp2OAxXg8jgGHSmYBLQQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIiCBQ1QVYqhpwAXgAkAEAmAHpAqAB_yCqAQgxLjExLjQuNLgBA8gBAPgBAZgCFaACjSKoAgrCAgcQIxgnGOoCwgIKEAAYAxjqAhiPAcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAggQABiABBixA8ICBRAuGIAEwgIIEC4YgAQY1ALCAggQLhiABBixA8ICDhAuGIAEGLEDGIMBGIoFmAMT8QVBuuezaQG1NpIHCDEuMTAuNS41oAe1lgGyBwgwLjEwLjUuNbgH-iHCBwYyLTE5LjLIB3k&sclient=gws-wiz",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      },
+      {
+        "url": "https://www.artificialintelligence-news.com/",
+        "title": "AI News | Latest AI News, Analysis & Events",
+        "type": "article"
+      }
+    ],
+    "airtable_available": false,
+    "end_time": "2025-07-02T10:13:53.652567",
+    "timestamp": "2025-07-02T10:13:53.652577"
+  },
+  {
+    "task": "Search for the latest AI news",
+    "start_time": "2025-07-02T10:12:28.900056",
+    "pages_visited": [
+      {
+        "url": "https://www.google.com/",
+        "title": "Google",
+        "type": "search_engine"
+      },
+      {
+        "url": "https://www.google.com/search?q=latest+AI+news+today&sca_esv=005b6c4fc39c80c5&sxsrf=AE3TifP2vSXWebk12Scv9QQi9UifGWgJag%3A1751431381122&source=hp&ei=1bhkaP_EBeDl4-EPqbCSoAs&iflsig=AOw8s4IAAAAAaGTG5WgiFnXW1U3YiCREWKpn2pXIKcJF&ved=0ahUKEwi_g8aqrp2OAxXg8jgGHSmYBLQQ4dUDCBk&uact=5&oq=latest+AI+news+today&gs_lp=Egdnd3Mtd2l6IhRsYXRlc3QgQUkgbmV3cyB0b2RheTIKECMYgAQYJxiKBTIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIiCBQ1QVYqhpwAXgAkAEAmAHpAqAB_yCqAQgxLjExLjQuNLgBA8gBAPgBAZgCFaACjSKoAgrCAgcQIxgnGOoCwgIKEAAYAxjqAhiPAcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIFEAAYgATCAggQABiABBixA8ICBRAuGIAEwgIIEC4YgAQY1ALCAggQLhiABBixA8ICDhAuGIAEGLEDGIMBGIoFmAMT8QVBuuezaQG1NpIHCDEuMTAuNS41oAe1lgGyBwgwLjEwLjUuNbgH-iHCBwYyLTE5LjLIB3k&sclient=gws-wiz",
+        "title": "latest AI news today - Google Search",
+        "type": "search_results"
+      },
+      {
+        "url": "https://www.artificialintelligence-news.com/",
+        "title": "AI News | Latest AI News, Analysis & Events",
+        "type": "article"
+      }
+    ],
+    "airtable_available": false,
+    "end_time": "2025-07-02T10:18:27.360300",
+    "timestamp": "2025-07-02T10:13:53.652577",
+    "status": "completed"
+  }
+]
